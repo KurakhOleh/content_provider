@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-03-30 12:00">
+  <shop>
+    <name>Kraft&amp;Dele Store</name>
+    <categories>
+      <category id="1">Інструменти Kraft&amp;Dele</category>
+    </categories>
+    <offers>
+      <offer id="1-kompresor-olejowy-24l-kd400.html" available="true">
+        <name>компресор Olejowy 24L KD400 (Kraft&amp;Dele)</name>
+        <vendor>Kraft&amp;Dele</vendor>
+        <vendorCode>1-kompresor-olejowy-24l-kd400.html</vendorCode>
+        <categoryId>1</categoryId>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://kraftdele.info/14-large_default/kompresor-olejowy-24l-kd400.jpg</picture>
+        <description>&lt;![CDATA[&lt;p&gt;Модель: KD400 Об 'єм: 24 л Об' єм: 206 л Тиск: 8 бар Живлення: 230 В/50 Гц Протоколи: 2850 об/хв Вага: 18 кг&lt;/p&gt;]]&gt;</description>
+      </offer>
+      <offer id="2-zgrzewarka-do-rur-plastikowych-sf-613.html" available="true">
+        <name>зварювальний апарат для пластикових труб EC591 (Kraft&amp;Dele)</name>
+        <vendor>Kraft&amp;Dele</vendor>
+        <vendorCode>2-zgrzewarka-do-rur-plastikowych-sf-613.html</vendorCode>
+        <categoryId>1</categoryId>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://kraftdele.info/18-large_default/zgrzewarka-do-rur-plastikowych-sf-613.jpg</picture>
+        <description>&lt;![CDATA[&lt;p&gt;Модель: EC591 Робоча температура: 0'C - 300' Час нагрівання: &amp;amp;amp; лт;15 хв Потужність: 2700 Вт Напруга: 230 В Частота: 50 Гц Вага: 5,2 кг&lt;/p&gt;]]&gt;</description>
+      </offer>
+      <offer id="3-wyrzynarka-ec563.html" available="true">
+        <name>лобзик 1200 Вт EC563 (Kraft&amp;Dele)</name>
+        <vendor>Kraft&amp;Dele</vendor>
+        <vendorCode>3-wyrzynarka-ec563.html</vendorCode>
+        <categoryId>1</categoryId>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://kraftdele.info/21-large_default/wyrzynarka-ec563.jpg</picture>
+        <description>&lt;![CDATA[&lt;p&gt;Модель: EC563&amp;nbsp;Номінальна потужність: 1200 ВтНапруга: 230 ВЧ: 50 ГцШвидкість навантаження: 500-3000 об/хв .Максимальна глибина різання: 80 ммВага: 2,2 кг&lt;/p&gt;]]&gt;</description>
+      </offer>
+      <offer id="4-wyrzynarka-ec564.html" available="true">
+        <name>лобзик 750 Вт EC564 (Kraft&amp;Dele)</name>
+        <vendor>Kraft&amp;Dele</vendor>
+        <vendorCode>4-wyrzynarka-ec564.html</vendorCode>
+        <categoryId>1</categoryId>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://kraftdele.info/22-large_default/wyrzynarka-ec564.jpg</picture>
+        <description>&lt;![CDATA[&lt;p&gt;Модель: EC564 Номінальна потужність: 750 Вт Без швидкості навантаження: 3000 об/хв. Напруга: 230 В Частота: 50 Гц Максимальна глибина різання: 55 мм Вага: 1,5 кг&lt;/p&gt;]]&gt;</description>
+      </offer>
+      <offer id="5-agregat-pradotworczy-diesel-kd120-kwd6500e.html" available="true">
+        <name>генератор дизельний 6500Вт 12/230/380В KD120 (Kraft&amp;Dele)</name>
+        <vendor>Kraft&amp;Dele</vendor>
+        <vendorCode>5-agregat-pradotworczy-diesel-kd120-kwd6500e.html</vendorCode>
+        <categoryId>1</categoryId>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://kraftdele.info/2227-large_default/agregat-pradotworczy-diesel-kd120-kwd6500e.jpg</picture>
+        <description>&lt;![CDATA[&lt;p&gt;Модель: KD120Потужність: 6500 Вт Паливний бак: 10 лПотужність: ДизельЕлектронний та механічний запускВбудований вольтметрВага: 110 кг&lt;/p&gt;]]&gt;</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
